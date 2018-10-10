@@ -1,0 +1,23 @@
+{
+    "name": "testtemplate/test-template",
+    "type": "typo3-cms-extension",
+    "description": "Test Template",
+    "authors": [],
+    "require": {
+        "typo3/cms-core": "^8.7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "TestTemplate\\TestTemplate\\": "Classes"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "TestTemplate\\TestTemplate\\Tests\\": "Tests"
+        }
+    },
+    "replace": {
+        "test_template": "self.version",
+        "typo3-ter/test-template": "self.version"
+    }
+}

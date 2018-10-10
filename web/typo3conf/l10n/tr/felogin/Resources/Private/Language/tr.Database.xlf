@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="tr" datatype="plaintext" original="messages" date="2018-10-07T02:07:01Z" product-name="felogin">
+		<header/>
+		<body>
+			<trans-unit id="felogin_forgotHash">
+				<source>Forgot hash</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="felogin_redirectPid">
+				<source>Redirect at Login to Page (felogin)</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="leon_levent">
+					<target>Girişte şu sayfaya yönlendir</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="tt_content.CType_pi1">
+				<source>Website User Login</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="leon_levent">
+					<target>Site kullanıcı girişi</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.error_header">
+				<source>Login Error Header</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.error_message">
+				<source>Login Error Message</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.field_manualOrder" approved="yes">
+				<source>Using fieldlists below:</source>
+				<target state="translated">Altdaki alan listelerini kullan:</target>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.field_orderDetails" approved="yes">
+				<source>User Fields/details:</source>
+				<target state="translated">Detaylı görüntü</target>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.field_orderList" approved="yes">
+				<source>User Fields/list:</source>
+				<target state="translated">Liste görüntüsü</target>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.forgot_header">
+				<source>Forgot Password Header</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.forgot_message">
+				<source>Forgot Password Message</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.general_header">
+				<source>General Header</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="leon_levent">
+					<target>Genel Başlık</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.general_message">
+				<source>General Message</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="leon_levent">
+					<target>Genel mesaj</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.groupSelection">
+				<source>FE group selection:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.groupSelection_noGroup">
+				<source>no group</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.groupSelectmode">
+				<source>FE group select mode:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.groupSelectmode_DontShowSelected">
+				<source>Don't show selected</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.groupSelectmode_FromTS">
+				<source>(from Typoscript)</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.groupSelectmode_showAll">
+				<source>Show all</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.groupSelectmode_showSelected">
+				<source>Show selected</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.logout_header">
+				<source>Logout Header</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.logout_message">
+				<source>Logout Message</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.redirectDisable">
+				<source>Disable Redirect</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.redirectFirstMethod">
+				<source>Use First Supported Mode from Selection</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.redirect_header">
+				<source>Redirect Header</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.redirect_message">
+				<source>Redirect Message</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.redirectMode">
+				<source>Redirect Mode</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.redirectMode.I.0">
+				<source>Defined by Usergroup Record</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.redirectMode.I.1">
+				<source>Defined by User Record</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.redirectMode.I.2">
+				<source>After Login (TS or Flexform)</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.redirectMode.I.3">
+				<source>After Logout (TS or Flexform)</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.redirectMode.I.4">
+				<source>After Login Error (TS or Flexform)</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.redirectMode.I.5">
+				<source>Defined by GET/POST Parameters</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.redirectMode.I.6">
+				<source>Defined by Referrer</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.redirectMode.I.7">
+				<source>Defined by Domain Entries</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.redirectPageLogin">
+				<source>After Successful Login Redirect to Page</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.redirectPageLoginError">
+				<source>After Failed Login Redirect to Page</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.redirectPageLogout">
+				<source>After Logout Redirect to Page</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.sheet_general" approved="yes">
+				<source>General</source>
+				<target state="translated">Genel</target>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.sheet_messages">
+				<source>Messages</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.sheet_redirect">
+				<source>Redirects</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.show_forgot_password" approved="yes">
+				<source>Display Password Recovery Link</source>
+				<target state="translated">'Parola kayıp?' linkini göster:</target>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.show_logoutFormAfterLogin">
+				<source>Disable redirect after successful login, but display logout-form</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.show_permalogin">
+				<source>Display Remember Login Option</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.status_header">
+				<source>Status Display Header</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.status_message">
+				<source>Status Display Message</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.success_header">
+				<source>Login Success Header</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.success_message">
+				<source>Login Success Message</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.template_file">
+				<source>Template File</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.user_storage">
+				<source>User Storage Page</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.welcome_header">
+				<source>Welcome Header</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.welcome_message">
+				<source>Welcome Message</source>
+				<target/>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

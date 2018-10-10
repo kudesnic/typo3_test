@@ -1,0 +1,296 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+  <file source-language="en" datatype="plaintext" original="messages" date="2011-10-17T20:22:32Z" product-name="belog" target-language="tr">
+    <header/>
+    <body>
+      <trans-unit id="adminLog" xml:space="preserve">
+        <source>Administration log</source>
+      <target/><alt-trans xml:space="preserve" origin="muratozel"><target>admin kayıtları</target></alt-trans></trans-unit>
+      <trans-unit id="allUsers" xml:space="preserve">
+        <source>[All users]</source>
+      <target/><alt-trans xml:space="preserve" origin="muratozel"><target>[Tüm Kullanıcılar]</target></alt-trans><alt-trans xml:space="preserve" origin="elementel_lab"><target>[Tüm kullanıcılar]</target></alt-trans></trans-unit>
+      <trans-unit id="any" xml:space="preserve">
+        <source>[Any]</source>
+      <target/><alt-trans xml:space="preserve" origin="muratozel"><target>[Herhangi]</target></alt-trans></trans-unit>
+      <trans-unit id="live" xml:space="preserve">
+        <source>LIVE</source>
+      <target/><alt-trans xml:space="preserve" origin="muratozel"><target>CANLI</target></alt-trans></trans-unit>
+      <trans-unit id="draft" xml:space="preserve">
+        <source>Draft</source>
+      <target/><alt-trans xml:space="preserve" origin="elementel_lab"><target>Taslak</target></alt-trans></trans-unit>
+      <trans-unit id="self" xml:space="preserve">
+        <source>Self</source>
+      <target/><alt-trans xml:space="preserve" origin="elementel_lab"><target>Şahsi</target></alt-trans><alt-trans xml:space="preserve" origin="muratozel"><target>Kişisel</target></alt-trans></trans-unit>
+      <trans-unit id="userGroup" xml:space="preserve">
+        <source>Group:</source>
+      <target/><alt-trans xml:space="preserve" origin="muratozel"><target>Grup:</target></alt-trans></trans-unit>
+      <trans-unit id="thisWeek" xml:space="preserve">
+        <source>This week</source>
+      <target/><alt-trans xml:space="preserve" origin="muratozel"><target>Bu Hafta</target></alt-trans><alt-trans xml:space="preserve" origin="elementel_lab"><target>Bu hafta</target></alt-trans></trans-unit>
+      <trans-unit id="lastWeek" xml:space="preserve">
+        <source>Last week</source>
+      <target/><alt-trans xml:space="preserve" origin="muratozel"><target>Geçen Hafta</target></alt-trans><alt-trans xml:space="preserve" origin="elementel_lab"><target>Geçen hafta</target></alt-trans></trans-unit>
+      <trans-unit id="last7Days" xml:space="preserve">
+        <source>Last 7 days</source>
+      <target/><alt-trans xml:space="preserve" origin="muratozel"><target>Son 7 Gün</target></alt-trans><alt-trans xml:space="preserve" origin="elementel_lab"><target>Son 7 gün</target></alt-trans></trans-unit>
+      <trans-unit id="thisMonth" xml:space="preserve">
+        <source>This month</source>
+      <target/><alt-trans xml:space="preserve" origin="muratozel"><target>Bu Ay</target></alt-trans><alt-trans xml:space="preserve" origin="elementel_lab"><target>Bu ay</target></alt-trans></trans-unit>
+      <trans-unit id="lastMonth" xml:space="preserve">
+        <source>Last month</source>
+      <target/><alt-trans xml:space="preserve" origin="muratozel"><target>Geçen Ay</target></alt-trans><alt-trans xml:space="preserve" origin="elementel_lab"><target>Geçen ay</target></alt-trans></trans-unit>
+      <trans-unit id="last31Days" xml:space="preserve">
+        <source>Last 31 days</source>
+      <target/><alt-trans xml:space="preserve" origin="muratozel"><target>Son 31 Gün</target></alt-trans><alt-trans xml:space="preserve" origin="elementel_lab"><target>Son 31 gün</target></alt-trans></trans-unit>
+      <trans-unit id="noLimit" xml:space="preserve">
+        <source>No limit</source>
+      <target/><alt-trans xml:space="preserve" origin="muratozel"><target>Limitsiz</target></alt-trans></trans-unit>
+      <trans-unit id="userdefined" xml:space="preserve">
+        <source>User defined</source>
+      <target/><alt-trans xml:space="preserve" origin="muratozel"><target>Kullanıcı tanımlı</target></alt-trans></trans-unit>
+      <trans-unit id="set" xml:space="preserve">
+        <source>Set</source>
+      <target/><alt-trans xml:space="preserve" origin="muratozel"><target>Ayarla</target></alt-trans></trans-unit>
+      <trans-unit id="20" xml:space="preserve">
+        <source>20</source>
+      <target/><alt-trans xml:space="preserve" origin="muratozel"><target>20</target></alt-trans></trans-unit>
+      <trans-unit id="50" xml:space="preserve">
+        <source>50</source>
+      <target/><alt-trans xml:space="preserve" origin="muratozel"><target>50</target></alt-trans></trans-unit>
+      <trans-unit id="100" xml:space="preserve">
+        <source>100</source>
+      <target/><alt-trans xml:space="preserve" origin="muratozel"><target>100</target></alt-trans></trans-unit>
+      <trans-unit id="200" xml:space="preserve">
+        <source>200</source>
+      <target/><alt-trans xml:space="preserve" origin="muratozel"><target>200</target></alt-trans></trans-unit>
+      <trans-unit id="500" xml:space="preserve">
+        <source>500</source>
+      <target/><alt-trans xml:space="preserve" origin="muratozel"><target>500</target></alt-trans></trans-unit>
+      <trans-unit id="1000" xml:space="preserve">
+        <source>1000</source>
+      <target/><alt-trans xml:space="preserve" origin="muratozel"><target>1000</target></alt-trans></trans-unit>
+      <trans-unit id="actionAll" xml:space="preserve">
+        <source>All</source>
+      <target/><alt-trans xml:space="preserve" origin="muratozel"><target>Hepsi</target></alt-trans><alt-trans xml:space="preserve" origin="elementel_lab"><target>Tümü</target></alt-trans></trans-unit>
+      <trans-unit id="actionDatabase" xml:space="preserve">
+        <source>Database</source>
+      <target/><alt-trans xml:space="preserve" origin="elementel_lab"><target>Veri tabanı</target></alt-trans><alt-trans xml:space="preserve" origin="muratozel"><target>Veri Tabanı</target></alt-trans></trans-unit>
+      <trans-unit id="actionFile" xml:space="preserve">
+        <source>File</source>
+      <target/><alt-trans xml:space="preserve" origin="muratozel"><target>Dosya</target></alt-trans></trans-unit>
+      <trans-unit id="actionCache" xml:space="preserve">
+        <source>Cache</source>
+      <target/><alt-trans xml:space="preserve" origin="muratozel"><target>Ön Bellek</target></alt-trans><alt-trans xml:space="preserve" origin="elementel_lab"><target>Önbellek</target></alt-trans></trans-unit>
+      <trans-unit id="actionSettings" xml:space="preserve">
+        <source>Settings</source>
+      <target/><alt-trans xml:space="preserve" origin="elementel_lab"><target>Ayarlar</target></alt-trans><alt-trans xml:space="preserve" origin="muratozel"><target>ayarla/ayar/küme</target></alt-trans></trans-unit>
+      <trans-unit id="actionLogin" xml:space="preserve">
+        <source>Login</source>
+      <target/><alt-trans xml:space="preserve" origin="muratozel"><target>Giriş</target></alt-trans></trans-unit>
+      <trans-unit id="actionErrors" xml:space="preserve">
+        <source>Errors</source>
+      <target/><alt-trans xml:space="preserve" origin="muratozel"><target>Hatalar</target></alt-trans></trans-unit>
+      <trans-unit id="group" xml:space="preserve">
+        <source>Group:</source>
+      <target/><alt-trans xml:space="preserve" origin="muratozel"><target>Grup:</target></alt-trans></trans-unit>
+      <trans-unit id="user" xml:space="preserve">
+        <source>User:</source>
+      <target/><alt-trans xml:space="preserve" origin="muratozel"><target>Kullanıcı:</target></alt-trans></trans-unit>
+      <trans-unit id="users" xml:space="preserve">
+        <source>Users:</source>
+      <target/><alt-trans xml:space="preserve" origin="elementel_lab"><target>Kullanıcılar:</target></alt-trans><alt-trans xml:space="preserve" origin="muratozel"><target>Kullanıcı:</target></alt-trans></trans-unit>
+      <trans-unit id="time" xml:space="preserve">
+        <source>Time:</source>
+      <target/><alt-trans xml:space="preserve" origin="muratozel"><target>Zaman:</target></alt-trans></trans-unit>
+      <trans-unit id="max" xml:space="preserve">
+        <source>Max:</source>
+      <target/><alt-trans xml:space="preserve" origin="muratozel"><target>Max:</target></alt-trans><alt-trans xml:space="preserve" origin="elementel_lab"><target>Maksimum:</target></alt-trans></trans-unit>
+      <trans-unit id="changesInFields" xml:space="preserve">
+        <source>Changes in fields: %s.</source>
+      <target/><alt-trans xml:space="preserve" origin="elementel_lab"><target>Alanlardaki değişiklikler: %s.</target></alt-trans><alt-trans xml:space="preserve" origin="muratozel"><target>Alanlarda değişiklikler: %s.</target></alt-trans></trans-unit>
+      <trans-unit id="showHistory" xml:space="preserve">
+        <source>Show History</source>
+      <target/><alt-trans xml:space="preserve" origin="muratozel"><target>Geçmişi Göster</target></alt-trans></trans-unit>
+      <trans-unit id="action" xml:space="preserve">
+        <source>Action:</source>
+      <target/><alt-trans xml:space="preserve" origin="muratozel"><target>Eylem:</target></alt-trans></trans-unit>
+      <trans-unit id="workspace" xml:space="preserve">
+        <source>Workspace:</source>
+      <target/><alt-trans xml:space="preserve" origin="elementel_lab"><target>Çalışma alanı:</target></alt-trans><alt-trans xml:space="preserve" origin="muratozel"><target>Çalışma Alanı:</target></alt-trans></trans-unit>
+      <trans-unit id="groupByPage" xml:space="preserve">
+        <source>Group by page:</source>
+      <target/><alt-trans xml:space="preserve" origin="elementel_lab"><target>Sayfaya göre grup:</target></alt-trans></trans-unit>
+      <trans-unit id="pagenameWithUID" xml:space="preserve">
+        <source>%s" [UID: %s]</source>
+      <target/><alt-trans xml:space="preserve" origin="elementel_lab"><target>%s" [UID: %s]</target></alt-trans></trans-unit>
+      <trans-unit id="overview" xml:space="preserve">
+        <source>Overview</source>
+      <target/><alt-trans xml:space="preserve" origin="elementel_lab"><target>Genel bakış</target></alt-trans><alt-trans xml:space="preserve" origin="muratozel"><target>Genel Bakış</target></alt-trans></trans-unit>
+      <trans-unit id="timeInfo" xml:space="preserve">
+        <source>These pages have log messages from %s to %s</source>
+      <target/><alt-trans xml:space="preserve" origin="muratozel"><target>Bu sayfalarda log mesajları %s e %s</target></alt-trans><alt-trans xml:space="preserve" origin="elementel_lab"><target>Bu sayfalar %s'dan %s'a oturum mesajları içerir</target></alt-trans></trans-unit>
+      <trans-unit id="forNonPageRelatedActions" xml:space="preserve">
+        <source>for NON-PAGE related actions</source>
+      <target/><alt-trans xml:space="preserve" origin="elementel_lab"><target>NON-PAGE ilgili eylemler için</target></alt-trans></trans-unit>
+      <trans-unit id="forRootLevel" xml:space="preserve">
+        <source>for ROOT LEVEL</source>
+      <target/><alt-trans xml:space="preserve" origin="elementel_lab"><target>ROOT LEVEL için</target></alt-trans></trans-unit>
+      <trans-unit id="forPage" xml:space="preserve">
+        <source>for PAGE "%s" (UID: %s)</source>
+      <target/><alt-trans xml:space="preserve" origin="elementel_lab"><target>SAYFA "%s" (UID: %s) için</target></alt-trans></trans-unit>
+      <trans-unit id="logForNonPageRelatedActionsOrRootLevelOrPage" xml:space="preserve">
+        <source>Log %s from %s to %s</source>
+      <target/></trans-unit>
+      <trans-unit id="type_1" xml:space="preserve" approved="yes">
+        <source>DB</source>
+      <target state="translated">VT</target></trans-unit>
+      <trans-unit id="action_1_1" xml:space="preserve" approved="yes">
+        <source>Insert</source>
+      <target state="translated">Ekle</target></trans-unit>
+      <trans-unit id="action_1_2" xml:space="preserve" approved="yes">
+        <source>Update</source>
+      <target state="translated">Güncelle</target></trans-unit>
+      <trans-unit id="action_1_3" xml:space="preserve" approved="yes">
+        <source>Delete</source>
+      <target state="translated">Sil</target></trans-unit>
+      <trans-unit id="action_1_4" xml:space="preserve" approved="yes">
+        <source>Check</source>
+      <target state="translated">Kontrol et</target></trans-unit>
+      <trans-unit id="msg_1_0_1" xml:space="preserve" approved="yes">
+        <source>Referer host '%s' and server host '%s' did not match!</source>
+      <target state="translated">Referer host '%s' ve sunucu host '%s' eşleştirilemedi!</target><alt-trans xml:space="preserve" origin="elementel_lab"><target>Referer host '%s' ve sunucu host '%s' eşleşmiyor!</target></alt-trans></trans-unit>
+      <trans-unit id="msg_1_1_11" xml:space="preserve" approved="yes">
+        <source>Attempt to insert record on page '%s' (%s) where this table, %s, is not allowed</source>
+      <target state="translated">'%s' sayfasında (%s), bu tabloda %s'e izin verilmediği halde kayıt eklenilmeye çalışıldı.</target></trans-unit>
+      <trans-unit id="msg_1_1_12" xml:space="preserve" approved="yes">
+        <source>Attempt to insert a record on page '%s' (%s) from table '%s' without permissions. Or non-existing page.</source>
+      <target state="translated">'%s' sayfasında (%s), '%s' tablosundan izin olmadığı halde kayıt eklenilmeye çalışıldı. Ya da böyle bir sayfa mevcut değil.</target></trans-unit>
+      <trans-unit id="msg_1_2_1" xml:space="preserve" approved="yes">
+        <source>Attempt to modify table '%s' without permission</source>
+      <target state="translated">'%s' tablosu izinsiz olarak değiştirilmeye çalışıldı.</target></trans-unit>
+      <trans-unit id="msg_1_2_2" xml:space="preserve" approved="yes">
+        <source>Attempt to modify record '%s' (%s) without permission. Or non-existing page.</source>
+      <target state="translated">'%s' kayıtları (%s) izin olmaksızın değiştirilmeye çalışıldı. Ya da böyle bir sayfa mevcut değil.</target></trans-unit>
+      <trans-unit id="msg_1_2_10" xml:space="preserve" approved="yes">
+        <source>Record '%s' (%s) was updated.</source>
+      <target state="translated">Kayıt '%s' (%s) güncellendi.</target></trans-unit>
+      <trans-unit id="msg_1_2_12" xml:space="preserve" approved="yes">
+        <source>MySQL error: '%s' (%s)</source>
+      <target state="translated">MySQL hatası: '%s' (%s)</target></trans-unit>
+      <trans-unit id="msg_1_4_1" xml:space="preserve" approved="yes">
+        <source>Attempt to move record '%s' (%s) to after a non-existing record (uid=%s)</source>
+      <target state="translated">'%s' kaydı/kayıtları (%s) var olmayan bir kaydın arkasına taşınmaya çalışıldı. (uid=%s)</target></trans-unit>
+      <trans-unit id="msg_1_4_2" xml:space="preserve" approved="yes">
+        <source>Moved record '%s' (%s) to page '%s' (%s)</source>
+      <target state="translated">Kayıt taşındı '%s' (%s) sayfası '%s' (%s) sayfasına</target></trans-unit>
+      <trans-unit id="msg_1_4_3" xml:space="preserve" approved="yes">
+        <source>Moved record '%s' (%s) from page '%s' (%s)</source>
+      <target state="translated">Kayıt taşındı '%s' (%s) sayfasından '%s' (%s) sayfasına</target></trans-unit>
+      <trans-unit id="msg_1_4_4" xml:space="preserve" approved="yes">
+        <source>Moved record '%s' (%s) on page '%s' (%s)</source>
+      <target state="translated">Kayıt taşındı '%s' (%s) sayfasından '%s' (%s) sayfası üzerine</target></trans-unit>
+      <trans-unit id="msg_1_4_10" xml:space="preserve" approved="yes">
+        <source>Attempt to move page '%s' (%s) to inside of its own rootline (at page '%s' (%s))</source>
+      <target state="translated">'%s' sayfası (%s) kendi kök bağlantısı içine taşınmaya çalışıldı. ('%s' sayfasında (%s))</target></trans-unit>
+      <trans-unit id="msg_1_4_11" xml:space="preserve" approved="yes">
+        <source>Attempt to insert record on page '%s' (%s) where this table, %s, is not allowed</source>
+      <target state="translated">'%s' sayfasına (%s), bu tabloda '%s'e izin verilmediği halde kayıt eklenmeye çalışıldı.</target></trans-unit>
+      <trans-unit id="msg_1_4_12" xml:space="preserve" approved="yes">
+        <source>Attempt to insert a record on page '%s' (%s) from table '%s' without permissions. Or non-existing page.</source>
+      <target state="translated">'%s' sayfasında (%s), '%s' tablosundan izin olmadığı halde kayıt eklenilmeye çalışıldı. Ya da böyle bir sayfa mevcut değil.</target></trans-unit>
+      <trans-unit id="msg_1_4_13" xml:space="preserve" approved="yes">
+        <source>Attempt to move record '%s' (%s) to after another record, although the table has no sorting row.</source>
+      <target state="translated">'%s' kaydı/kayıtları (%s), tabloda bir sıralama sütunu olmamasına rağmen başka bir kaydın ardına taşınmaya çalışıldı.</target></trans-unit>
+      <trans-unit id="msg_1_4_14" xml:space="preserve" approved="yes">
+        <source>Attempt to move record '%s' (%s) without having permissions to do so</source>
+      <target state="translated">'%s' kaydı/kayıtları (%s) yapılmasına izin olmamasına rağmen taşınmaya çalışıldı.</target></trans-unit>
+      <trans-unit id="msg_1_5_1" xml:space="preserve" approved="yes">
+        <source>You cannot change the 'doktype' of page '%s' to the desired value.</source>
+      <target state="translated">'%s' sayfasının 'doktype' değerini istediğiniz değere çeviremezsiniz.</target></trans-unit>
+      <trans-unit id="msg_1_5_2" xml:space="preserve" approved="yes">
+        <source>'doktype' of page '%s' could not be changed because the page contains records from disallowed tables; %s</source>
+      <target state="translated">'%s' sayfasının 'doktype' değeri değiştirilemedi, çünkü sayfa izin verilmeyen tablolardan (%s) kayıtlar taşımakta.</target></trans-unit>
+      <trans-unit id="msg_1_5_3" xml:space="preserve" approved="yes">
+        <source>Too few items in the list of values. (%s)</source>
+      <target state="translated">Değerler listesinde çok az nesne var. (%s)</target></trans-unit>
+      <trans-unit id="msg_1_5_10" xml:space="preserve" approved="yes">
+        <source>Could not delete file '%s' (does not exist). (%s)</source>
+      <target state="translated">'%s' dosyası silinemedi. (dosya mevcut değil). (%s)</target></trans-unit>
+      <trans-unit id="msg_1_5_11" xml:space="preserve" approved="yes">
+        <source>Copying file '%s' failed!: No destination file (%s) possible!. (%s)</source>
+      <target state="translated">'%s' dosyasının kopyalanması gerçekleştirilemedi. Hedef dosya (%s) oluşturulması mümkün değil. (%s)</target></trans-unit>
+      <trans-unit id="msg_1_5_12" xml:space="preserve" approved="yes">
+        <source>File extension '%s' is not allowed. (%s)</source>
+      <target state="translated">'%s' şeklinde dosya uzantısı oluşturamazsınız. (%s)</target></trans-unit>
+      <trans-unit id="msg_1_5_13" xml:space="preserve" approved="yes">
+        <source>File size (%s) of file '%s' exceeds limit (%s). (%s)</source>
+      <target state="translated">(%s) boyutunda olan '%s' dosyası %s limitini aşmakta. (%s)</target></trans-unit>
+      <trans-unit id="msg_1_5_14" xml:space="preserve" approved="yes">
+        <source>The destination (%s) or the source file (%s) does not exist. (%s)</source>
+      <target state="translated">Hedef (%s) veya kaynak dosya (%s) mevcut değil. (%s)</target></trans-unit>
+      <trans-unit id="msg_1_5_15" xml:space="preserve" approved="yes">
+        <source>Copying to file '%s' failed! (%s)</source>
+      <target state="translated">'%s' dosyasına kopyalama gerçekleştirilemedi. (%s)</target></trans-unit>
+      <trans-unit id="msg_1_5_16" xml:space="preserve" approved="yes">
+        <source>Copying file '%s' failed!: The destination path (%s) may be write protected. Please make it write enabled!. (%s)</source>
+      <target state="translated">'%s' dosyasının kopyalanması gerçekleştirilemedi!: Hedef yolu (%s) yazmaya karşı korumalı olabilir. Lütfen yazılabilir duruma getirin!. (%s)</target></trans-unit>
+      <trans-unit id="type_2" xml:space="preserve" approved="yes">
+        <source>FILE</source>
+      <target state="translated">DOSYA</target></trans-unit>
+      <trans-unit id="action_2_1" xml:space="preserve" approved="yes">
+        <source>Upload</source>
+      <target state="translated">Yükle</target></trans-unit>
+      <trans-unit id="action_2_2" xml:space="preserve" approved="yes">
+        <source>Copy</source>
+      <target state="translated">Kopyala</target></trans-unit>
+      <trans-unit id="action_2_3" xml:space="preserve" approved="yes">
+        <source>Move</source>
+      <target state="translated">Taşı</target></trans-unit>
+      <trans-unit id="action_2_4" xml:space="preserve" approved="yes">
+        <source>Delete</source>
+      <target state="translated">Sil</target></trans-unit>
+      <trans-unit id="action_2_5" xml:space="preserve" approved="yes">
+        <source>Rename</source>
+      <target state="translated">Yeniden adlandır</target></trans-unit>
+      <trans-unit id="action_2_6" xml:space="preserve" approved="yes">
+        <source>New</source>
+      <target state="translated">Yeni</target></trans-unit>
+      <trans-unit id="action_2_7" xml:space="preserve" approved="yes">
+        <source>Unzip</source>
+      <target state="translated">Sıkıştırılmış dosyayı aç</target></trans-unit>
+      <trans-unit id="action_2_8" xml:space="preserve" approved="yes">
+        <source>New file</source>
+      <target state="translated">Yeni dosya</target></trans-unit>
+      <trans-unit id="action_2_9" xml:space="preserve" approved="yes">
+        <source>Edit</source>
+      <target state="translated">Düzenle</target></trans-unit>
+      <trans-unit id="msg_2_9_1" xml:space="preserve" approved="yes">
+        <source>File saved to '%s', bytes: %s, MD5: %s </source>
+      <target state="translated">Dosya '%s'e kaydedildi, %s bayt, MD5: %s</target></trans-unit>
+      <trans-unit id="type_3" xml:space="preserve">
+        <source>CACHE</source>
+      <target/></trans-unit>
+      <trans-unit id="action_3_1" xml:space="preserve">
+        <source>Clear Cache</source>
+      <target/></trans-unit>
+      <trans-unit id="type_254" xml:space="preserve" approved="yes">
+        <source>SETTING</source>
+      <target state="translated">AYAR</target></trans-unit>
+      <trans-unit id="action_254_1" xml:space="preserve" approved="yes">
+        <source>Change</source>
+      <target state="translated">Değiştir</target></trans-unit>
+      <trans-unit id="type_255" xml:space="preserve" approved="yes">
+        <source>LOGIN</source>
+      <target state="translated">GİRİŞ</target></trans-unit>
+      <trans-unit id="action_255_1" xml:space="preserve" approved="yes">
+        <source>LOGIN</source>
+      <target state="translated">GİRİŞ</target></trans-unit>
+      <trans-unit id="action_255_2" xml:space="preserve" approved="yes">
+        <source>LOGOUT</source>
+      <target state="translated">ÇIKIŞ</target></trans-unit>
+      <trans-unit id="action_255_3" xml:space="preserve" approved="yes">
+        <source>ATTEMPT</source>
+      <target state="translated">DENEME</target></trans-unit>
+    </body>
+  </file>
+</xliff>

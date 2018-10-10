@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="tr" datatype="plaintext" original="messages" date="2018-10-07T02:16:47Z" product-name="fluid">
+		<header/>
+		<body>
+			<trans-unit id="viewhelper.format.bytes.units">
+				<source>B,KB,MB,GB,TB,PB,EB,ZB,YB</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="widget.pagination.first">
+				<source>first</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="hekim">
+					<target>İlk</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="widget.pagination.last">
+				<source>last</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="hekim">
+					<target>Son</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="widget.pagination.next">
+				<source>next</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="hekim">
+					<target>Sonraki</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="widget.pagination.page">
+				<source>Page</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="hekim">
+					<target>Sayfa</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="widget.pagination.previous">
+				<source>previous</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="hekim">
+					<target>Önceki</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="widget.pagination.records">
+				<source>Records</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="hekim">
+					<target>Kayıtlar</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="widget.pagination.refresh">
+				<source>Refresh</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="hekim">
+					<target>Yenile</target>
+				</alt-trans>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

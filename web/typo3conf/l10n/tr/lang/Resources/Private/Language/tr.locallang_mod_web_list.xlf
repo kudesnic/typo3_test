@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="tr" datatype="plaintext" original="messages" date="2018-10-07T05:02:54Z" product-name="lang">
+		<header/>
+		<body>
+			<trans-unit id="button.cancel">
+				<source>Cancel</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="button.delete">
+				<source>Delete</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="clip_deleteMarked" approved="yes">
+				<source>Delete marked</source>
+				<target state="translated">İşaretlenmiş olanı sil</target>
+			</trans-unit>
+			<trans-unit id="clip_deleteMarkedWarning" approved="yes">
+				<source>Are you sure you want to delete all marked records from the table '%s'?</source>
+				<target state="translated">Tüm işaretli kayıtları tablodan '%s' silmek istediğinizden emin misiniz?</target>
+			</trans-unit>
+			<trans-unit id="clip_duplicates" approved="yes">
+				<source>Mark duplicates</source>
+				<target state="translated">İkinci kopyası olanları işaretle</target>
+			</trans-unit>
+			<trans-unit id="clip_editMarked" approved="yes">
+				<source>Edit marked</source>
+				<target state="translated">İşaretlenmiş olanı düzelt</target>
+			</trans-unit>
+			<trans-unit id="clip_markRecords" approved="yes">
+				<source>Mark All/Mark none</source>
+				<target state="translated">Tümünü İşaretle/Hiçbirini İşaretleme</target>
+			</trans-unit>
+			<trans-unit id="clip_paste" approved="yes">
+				<source>Paste in clipboard content</source>
+				<target state="translated">Pano içeriğinin içine yapıştır</target>
+			</trans-unit>
+			<trans-unit id="clip_pasteAfter" approved="yes">
+				<source>Paste after: Clipboard content is inserted after this record</source>
+				<target state="translated">Sonrakine yapıştır: Bu kayıttan sonra pano içeriği eklendi</target>
+			</trans-unit>
+			<trans-unit id="clip_pasteInto" approved="yes">
+				<source>Paste into: Clipboard content is inserted on this page</source>
+				<target state="translated">İçine yapıştır: Bu sayfa üzerinde pano içeriği eklendi</target>
+			</trans-unit>
+			<trans-unit id="clip_selectMarked" approved="yes">
+				<source>Transfer the selection of records to clipboard</source>
+				<target state="translated">Seçili kayıtları panoya transfer et</target>
+			</trans-unit>
+			<trans-unit id="contractView" approved="yes">
+				<source>List all tables</source>
+				<target state="translated">Tüm tabloların listesi</target>
+			</trans-unit>
+			<trans-unit id="defaultLanguage" approved="yes">
+				<source>Default</source>
+				<target state="translated">Default</target>
+			</trans-unit>
+			<trans-unit id="delete" approved="yes">
+				<source>Delete record (!)</source>
+				<target state="translated">Kayıtı sil (!)</target>
+			</trans-unit>
+			<trans-unit id="deleteWarning" approved="yes">
+				<source>Are you sure you want to delete this record?</source>
+				<target state="translated">Bu kayıtı silmek istediğinizden emin misiniz?</target>
+			</trans-unit>
+			<trans-unit id="displayVersions">
+				<source>Display versions</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="edit" approved="yes">
+				<source>Edit record</source>
+				<target state="translated">Kayıt düzenleme</target>
+			</trans-unit>
+			<trans-unit id="editPage" approved="yes">
+				<source>Edit page properties</source>
+				<target state="translated">Sayfayı düzelt</target>
+			</trans-unit>
+			<trans-unit id="editShownColumns" approved="yes">
+				<source>Edit all shown fields of the listed records</source>
+				<target state="translated">Listelenen kayıtların tüm alanlarının gösterilmesinin düzeltilmesi</target>
+			</trans-unit>
+			<trans-unit id="editThisColumn" approved="yes">
+				<source>Edit the '%s' field of the listed records</source>
+				<target state="translated">Listelenen kayıtların alanının '%s' düzeltilmesi</target>
+			</trans-unit>
+			<trans-unit id="expandView" approved="yes">
+				<source>List only this table</source>
+				<target state="translated">Sadece bu tablonun listelenmesi</target>
+			</trans-unit>
+			<trans-unit id="hide" approved="yes">
+				<source>Hide record</source>
+				<target state="translated">Kayıtı sakla</target>
+			</trans-unit>
+			<trans-unit id="hidePage" approved="yes">
+				<source>Hide page</source>
+				<target state="translated">Sayfayı gizle</target>
+			</trans-unit>
+			<trans-unit id="history" approved="yes">
+				<source>Display change history / Un-do</source>
+				<target state="translated">Değişim günlüğünün görüntülenmesi / Geri al</target>
+			</trans-unit>
+			<trans-unit id="largeControl" approved="yes">
+				<source>Extended view</source>
+				<target state="translated">Genişletilmiş görüntü</target>
+			</trans-unit>
+			<trans-unit id="localization" approved="yes">
+				<source>Localization view</source>
+				<target state="translated">Sınırlama/yerelleştirme görünümü</target>
+			</trans-unit>
+			<trans-unit id="Localize" approved="yes">
+				<source>Localize to:</source>
+				<target state="translated">Sınırlama</target>
+			</trans-unit>
+			<trans-unit id="missingTcaColumnsMessage">
+				<source>No fields for table "%s" have been found. $TCA['%s']['columns'] does not contain the necessary definitions.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="missingTcaColumnsMessageTitle">
+				<source>Missing TCA definition</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="mlang_labels_tabdescr" approved="yes">
+				<source>The Web&gt;List module provides low level access to records appearing on a page.</source>
+				<target state="translated">Web&gt;Listesi modülü her sayfada bir kayıta en düşük seviyede erişim imkanı sağlar.Diğer modüller belli veritabanı tablolarındaki belli uygulamalar için özelleştirilmişken, bu modül kullanıcının erişebilmesine izin verilen tüm kayıtlara erişebilmesine imkan sağlar.</target>
+			</trans-unit>
+			<trans-unit id="mlang_labels_tablabel" approved="yes">
+				<source>List of database-records</source>
+				<target state="translated">Veritabanı kayıtlarının listelenmesi</target>
+			</trans-unit>
+			<trans-unit id="mlang_tabs_tab" approved="yes">
+				<source>List</source>
+				<target state="translated">Liste</target>
+			</trans-unit>
+			<trans-unit id="moveDown" approved="yes">
+				<source>Move down in list</source>
+				<target state="translated">Listenin içinde aşağı taşı</target>
+			</trans-unit>
+			<trans-unit id="move_page" approved="yes">
+				<source>Move page</source>
+				<target state="translated">Sayfayı taşı</target>
+			</trans-unit>
+			<trans-unit id="move_record" approved="yes">
+				<source>Re-position content element</source>
+				<target state="translated">Yeni pozisyon içerik elementi</target>
+			</trans-unit>
+			<trans-unit id="moveUp" approved="yes">
+				<source>Move up in list</source>
+				<target state="translated">Listenin içinde yukarı taşı</target>
+			</trans-unit>
+			<trans-unit id="multipleLanguages" approved="yes">
+				<source>All languages</source>
+				<target state="translated">Tüm diller</target>
+			</trans-unit>
+			<trans-unit id="new" approved="yes">
+				<source>New record</source>
+				<target state="translated">Yeni kayıt</target>
+			</trans-unit>
+			<trans-unit id="newPage" approved="yes">
+				<source>Create new page after this page</source>
+				<target state="translated">Sonraki sayfaya yeni sayfa yarat</target>
+			</trans-unit>
+			<trans-unit id="newRecord" approved="yes">
+				<source>Create new record after this record</source>
+				<target state="translated">Sonraki kayıta yeni kayıt yarat</target>
+			</trans-unit>
+			<trans-unit id="newRecordGeneral" approved="yes">
+				<source>Create new record</source>
+				<target state="translated">Yeni kayıt yarat</target>
+			</trans-unit>
+			<trans-unit id="nextLevel" approved="yes">
+				<source>Move this page to be a subpage of the page above (Outwards)</source>
+				<target state="translated">Bu sayfayı yukarıdaki sayfanın bir alt sayfası olarak taşı (Dış kısımlar)</target>
+			</trans-unit>
+			<trans-unit id="noRecordsOnThisPage">
+				<source>There are no records on this page.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="pageIndicator">
+				<source>Page %1$s of %2$d</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="permissions" approved="yes">
+				<source>Set permissions for page</source>
+				<target state="translated">Sayfa için izinleri kur</target>
+			</trans-unit>
+			<trans-unit id="prevLevel" approved="yes">
+				<source>Move this page to the position after the current parent page (Inwards)</source>
+				<target state="translated">Bu sayfayı sonraki güncel ana sayfadaki konuma taşı (İç kısımlar)</target>
+			</trans-unit>
+			<trans-unit id="rangeIndicator">
+				<source>Records %1$d - %2$d</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="restore">
+				<source>Restore record</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="restoreWarning">
+				<source>Are you sure you want to restore this record by reverting the delete status?</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="showClipBoard" approved="yes">
+				<source>Show clipboard</source>
+				<target state="translated">Panoyu göster</target>
+			</trans-unit>
+			<trans-unit id="showInfo" approved="yes">
+				<source>Display information</source>
+				<target state="translated">Bilginin görüntülenmesi</target>
+			</trans-unit>
+			<trans-unit id="unHide" approved="yes">
+				<source>Un-hide record</source>
+				<target state="translated">Saklanamayan kayıt</target>
+			</trans-unit>
+			<trans-unit id="unHidePage" approved="yes">
+				<source>Un-hide page</source>
+				<target state="translated">Sayfayı gizleme</target>
+			</trans-unit>
+			<trans-unit id="viewRecords">
+				<source>Viewing records of</source>
+				<target/>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

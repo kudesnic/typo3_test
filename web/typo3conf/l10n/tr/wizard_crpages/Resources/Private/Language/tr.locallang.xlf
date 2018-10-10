@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="tr" datatype="plaintext" original="messages" date="2018-10-07T07:21:46Z" product-name="wizard_crpages">
+		<header/>
+		<body>
+			<trans-unit id="wiz_crMany" approved="yes">
+				<source>Create multiple pages</source>
+				<target state="translated">Çok yönlü sayfalar yarat</target>
+			</trans-unit>
+			<trans-unit id="wiz_newPages" approved="yes">
+				<source>Create new pages</source>
+				<target state="translated">Yeni sayfalar yarat</target>
+			</trans-unit>
+			<trans-unit id="wiz_newPages_addMoreLines">
+				<source>Add more lines</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="wiz_newPages_create" approved="no">
+				<source>The pages were created!</source>
+				<target state="needs-translation">Sayfalar yaratılamadı!</target>
+				<note>86%</note>
+			</trans-unit>
+			<trans-unit id="wiz_newPages_currentMenu" approved="yes">
+				<source>New page structure</source>
+				<target state="translated">Yeni sayfa yapısı</target>
+			</trans-unit>
+			<trans-unit id="wiz_newPages_errorMsg1" approved="yes">
+				<source>You are not allowed to create new subpages to this page!</source>
+				<target state="translated">Bu sayfaya yeni alt sayfalar yaratmanıza izin verilmedi!</target>
+			</trans-unit>
+			<trans-unit id="wiz_newPages_hidePages" approved="yes">
+				<source>Hide new pages</source>
+				<target state="translated">Yeni sayfaları sakla</target>
+			</trans-unit>
+			<trans-unit id="wiz_newPages_hidePagesInMenus">
+				<source>Hide new pages in menus</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="wiz_newPages_lCreate" approved="yes">
+				<source>Create pages</source>
+				<target state="translated">Sayfalar yarat</target>
+			</trans-unit>
+			<trans-unit id="wiz_newPages_lCreate_msg1" approved="yes">
+				<source>You're about to create many new pages. Are you sure you want to continue?</source>
+				<target state="translated">Bir kaç yeni sayfayı değiştirmek üzeresiniz. Devam etmek istediğinizden emin misiniz?</target>
+			</trans-unit>
+			<trans-unit id="wiz_newPages_listEnd" approved="yes">
+				<source>Place new pages after the existing subpages</source>
+				<target state="translated">Mevcut olan sayfalardan sonra yeni sayfaları yeri</target>
+			</trans-unit>
+			<trans-unit id="wiz_newPages_lReset" approved="yes">
+				<source>Clear fields</source>
+				<target state="translated">Alanları temizle</target>
+			</trans-unit>
+			<trans-unit id="wiz_newPages_noCreate" approved="yes">
+				<source>No pages were created!</source>
+				<target state="translated">Sayfalar yaratılamadı!</target>
+			</trans-unit>
+			<trans-unit id="wiz_newPages_page" approved="yes">
+				<source>Page</source>
+				<target state="translated">Sayfa</target>
+			</trans-unit>
+			<trans-unit id="wiz_W" approved="yes">
+				<source>W!</source>
+				<target state="translated">U!</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

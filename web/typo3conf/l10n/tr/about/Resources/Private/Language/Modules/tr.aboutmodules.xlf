@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="tr" datatype="plaintext" original="messages" date="2018-10-07T00:01:50Z" product-name="about">
+		<header/>
+		<body>
+			<trans-unit id="mlang_labels_tabdescr">
+				<source>Shows this page about available modules.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="hekim">
+					<target>Kullanılabilir Modülleri gösterir</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="mlang_labels_tablabel">
+				<source>Information about modules</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="hekim">
+					<target>Modüller hakkında bilgiler</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="mlang_tabs_tab">
+				<source>About Modules</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="hekim">
+					<target>Modüller hakkında</target>
+				</alt-trans>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

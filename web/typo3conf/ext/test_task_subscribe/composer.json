@@ -1,0 +1,23 @@
+{
+    "name": "test/test-task-subscribe",
+    "type": "typo3-cms-extension",
+    "description": "",
+    "authors": [],
+    "require": {
+        "typo3/cms-core": "^8.7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Test\\TestTaskSubscribe\\": "Classes"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Test\\TestTaskSubscribe\\Tests\\": "Tests"
+        }
+    },
+    "replace": {
+        "test_task_subscribe": "self.version",
+        "typo3-ter/test-task-subscribe": "self.version"
+    }
+}

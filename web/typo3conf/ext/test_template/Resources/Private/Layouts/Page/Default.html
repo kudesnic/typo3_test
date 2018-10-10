@@ -1,0 +1,17 @@
+<div class="container">
+    <f:render partial="Header" />
+    <div class="nav-scroller py-1 mb-2">
+        <nav class="nav d-flex justify-content-left">
+            <f:for each="{mainnavigation}" as="mainnavigationItem">
+                <a href="{mainnavigationItem.link}" target="{mainnavigationItem.target}"
+                   title="{mainnavigationItem.title}" class="p-2 text-muted {f:if(condition: mainnavigationItem.active, then: 'active')}">
+
+                    {mainnavigationItem.title}
+
+                </a>
+            </f:for>
+        </nav>
+    </div>
+    <f:render section="Main" />
+
+</div>

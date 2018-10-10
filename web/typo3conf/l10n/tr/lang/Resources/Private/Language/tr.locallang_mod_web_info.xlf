@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="tr" datatype="plaintext" original="messages" date="2018-10-07T05:02:58Z" product-name="lang">
+		<header/>
+		<body>
+			<trans-unit id="mlang_labels_tabdescr" approved="yes">
+				<source>The Web&gt;Info module is focused on statistic information about pages. This includes statistics of pagehits and a changelog allowing browsing of page history changes. An overview of the number of records on each page as well as page settings presented in a classic tree structure is provided.</source>
+				<target state="translated">Web&gt;Bilgi modülü sayfadaki istatistik bilgisine odaklandı. Bu sayfa erişimlerinin istatistiklerini ve değişim logları içeriyor ki sayfa tarihinin değişikliklerine gözatmanıza izin veriyor. Birde her bir sayfada kayıtların numarasının genel görüntüsünü elde edebilirsiniz bunun yanısıra klasik ağaç yapısında sayfa ayarları sunuldu.</target>
+			</trans-unit>
+			<trans-unit id="mlang_labels_tablabel" approved="yes">
+				<source>Page related information, eg. hit statistics, change log, record counts</source>
+				<target state="translated">Sayfa bilgi, erişim istatistikleri, değişim logu, kayıt sayılarına gibi bağlantı kurdu</target>
+			</trans-unit>
+			<trans-unit id="mlang_tabs_tab" approved="yes">
+				<source>Info</source>
+				<target state="translated">Bilgi</target>
+			</trans-unit>
+			<trans-unit id="title" approved="yes">
+				<source>Page information</source>
+				<target state="translated">Sayfa bilgisi</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
