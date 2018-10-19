@@ -2388,7 +2388,7 @@ CREATE TABLE `tx_rsaauth_keys` (
   `key_value` text COLLATE utf8_unicode_ci,
   PRIMARY KEY (`uid`),
   KEY `crdate` (`crdate`)
-) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -2504,4 +2504,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-10-18 23:39:01
+-- Dump completed on 2018-10-19 15:36:32
