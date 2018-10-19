@@ -1,0 +1,38 @@
+<html xmlns:f="https://typo3.org/ns/TYPO3/CMS/Fluid/ViewHelpers" data-namespace-typo3-fluid="true">
+	<f:layout name="Default" />
+
+	This Template is responsible for creating a table of domain objects.
+
+	If you modify this template, do not forget to change the overwrite settings
+	in /Configuration/ExtensionBuilder/settings.yaml:
+	  Resources:
+		Private:
+		  Templates:
+			List.html: keep
+
+	Otherwise your changes will be overwritten the next time you save the extension in the extension builder
+
+	<f:section name="content">
+		<h1>Listing for SubscriberModel</h1>
+
+		<f:flashMessages />
+
+		<table  class="tx_subscriberr" >
+			<tr>
+				<th><f:translate key="tx_subscriberr_domain_model_subscribermodel.email" /></th>
+				<th> </th>
+				<th> </th>
+			</tr>
+
+			<f:for each="{subscriberModels}" as="subscriberModel">
+				<tr>
+					<td><f:link.action action="show" arguments="{subscriberModel : subscriberModel}"> {subscriberModel.email}</f:link.action></td>
+					<td><f:link.action action="edit" arguments="{subscriberModel : subscriberModel}">Edit</f:link.action></td>
+					<td><f:link.action action="delete" arguments="{subscriberModel : subscriberModel}">Delete</f:link.action></td>
+				</tr>
+			</f:for>
+		</table>
+
+		<f:link.action action="new">New SubscriberModel</f:link.action>
+	</f:section>
+</html>

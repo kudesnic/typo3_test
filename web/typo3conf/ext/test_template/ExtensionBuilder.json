@@ -17,11 +17,11 @@
         },
         "extensionKey": "test_template",
         "name": "TestTemplate",
-        "originalExtensionKey": "",
-        "originalVendorName": "",
+        "originalExtensionKey": "test_template",
+        "originalVendorName": "Kudesnic",
         "persons": [],
         "plugins": [],
-        "vendorName": "TestTemplate"
+        "vendorName": "Kudesnic"
     },
     "wires": [],
     "log": {

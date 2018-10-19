@@ -1,0 +1,23 @@
+{
+    "name": "test/subscriber",
+    "type": "typo3-cms-extension",
+    "description": "Subscriberr extension",
+    "authors": [],
+    "require": {
+        "typo3/cms-core": "^8.7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Test\\Subscriber\\": "Classes"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Test\\Subscriber\\Tests\\": "Tests"
+        }
+    },
+    "replace": {
+        "subscriber": "self.version",
+        "typo3-ter/subscriber": "self.version"
+    }
+}

@@ -12594,6 +12594,169 @@ return array (
         ),
       ),
     ),
+    'tx_subscriber_domain_model_subscribermodel' => 
+    array (
+      'ctrl' => 
+      array (
+        'title' => 'LLL:EXT:subscriber/Resources/Private/Language/locallang_db.xlf:tx_subscriber_domain_model_subscribermodel',
+        'label' => 'email',
+        'tstamp' => 'tstamp',
+        'crdate' => 'crdate',
+        'cruser_id' => 'cruser_id',
+        'versioningWS' => true,
+        'languageField' => 'sys_language_uid',
+        'transOrigPointerField' => 'l10n_parent',
+        'transOrigDiffSourceField' => 'l10n_diffsource',
+        'delete' => 'deleted',
+        'enablecolumns' => 
+        array (
+          'disabled' => 'hidden',
+          'starttime' => 'starttime',
+          'endtime' => 'endtime',
+        ),
+        'searchFields' => 'email',
+        'iconfile' => 'EXT:subscriber/Resources/Public/Icons/tx_subscriber_domain_model_subscribermodel.gif',
+      ),
+      'interface' => 
+      array (
+        'showRecordFieldList' => 'sys_language_uid, l10n_parent, l10n_diffsource, hidden, email',
+      ),
+      'types' => 
+      array (
+        1 => 
+        array (
+          'showitem' => 'sys_language_uid,l10n_parent,l10n_diffsource,hidden,email,--div--;LLL:EXT:frontend/Resources/Private/Language/locallang_ttc.xlf:tabs.access,starttime,endtime',
+        ),
+      ),
+      'columns' => 
+      array (
+        'sys_language_uid' => 
+        array (
+          'exclude' => true,
+          'label' => 'LLL:EXT:lang/locallang_general.xlf:LGL.language',
+          'config' => 
+          array (
+            'type' => 'select',
+            'renderType' => 'selectSingle',
+            'special' => 'languages',
+            'items' => 
+            array (
+              0 => 
+              array (
+                0 => 'LLL:EXT:lang/locallang_general.xlf:LGL.allLanguages',
+                1 => -1,
+                2 => 'flags-multiple',
+              ),
+            ),
+            'default' => 0,
+          ),
+        ),
+        'l10n_parent' => 
+        array (
+          'displayCond' => 'FIELD:sys_language_uid:>:0',
+          'exclude' => true,
+          'label' => 'LLL:EXT:lang/locallang_general.xlf:LGL.l18n_parent',
+          'config' => 
+          array (
+            'type' => 'select',
+            'renderType' => 'selectSingle',
+            'default' => 0,
+            'items' => 
+            array (
+              0 => 
+              array (
+                0 => '',
+                1 => 0,
+              ),
+            ),
+            'foreign_table' => 'tx_subscriber_domain_model_subscribermodel',
+            'foreign_table_where' => 'AND tx_subscriber_domain_model_subscribermodel.pid=###CURRENT_PID### AND tx_subscriber_domain_model_subscribermodel.sys_language_uid IN (-1,0)',
+          ),
+        ),
+        'l10n_diffsource' => 
+        array (
+          'config' => 
+          array (
+            'type' => 'passthrough',
+          ),
+        ),
+        't3ver_label' => 
+        array (
+          'label' => 'LLL:EXT:lang/locallang_general.xlf:LGL.versionLabel',
+          'config' => 
+          array (
+            'type' => 'input',
+            'size' => 30,
+            'max' => 255,
+          ),
+        ),
+        'hidden' => 
+        array (
+          'exclude' => true,
+          'label' => 'LLL:EXT:lang/locallang_general.xlf:LGL.hidden',
+          'config' => 
+          array (
+            'type' => 'check',
+            'items' => 
+            array (
+              1 => 
+              array (
+                0 => 'LLL:EXT:lang/Resources/Private/Language/locallang_core.xlf:labels.enabled',
+              ),
+            ),
+          ),
+        ),
+        'starttime' => 
+        array (
+          'exclude' => true,
+          'behaviour' => 
+          array (
+            'allowLanguageSynchronization' => true,
+          ),
+          'label' => 'LLL:EXT:lang/locallang_general.xlf:LGL.starttime',
+          'config' => 
+          array (
+            'type' => 'input',
+            'renderType' => 'inputDateTime',
+            'size' => 13,
+            'eval' => 'datetime',
+            'default' => 0,
+          ),
+        ),
+        'endtime' => 
+        array (
+          'exclude' => true,
+          'behaviour' => 
+          array (
+            'allowLanguageSynchronization' => true,
+          ),
+          'label' => 'LLL:EXT:lang/locallang_general.xlf:LGL.endtime',
+          'config' => 
+          array (
+            'type' => 'input',
+            'renderType' => 'inputDateTime',
+            'size' => 13,
+            'eval' => 'datetime',
+            'default' => 0,
+            'range' => 
+            array (
+              'upper' => 2145909600,
+            ),
+          ),
+        ),
+        'email' => 
+        array (
+          'exclude' => true,
+          'label' => 'LLL:EXT:subscriber/Resources/Private/Language/locallang_db.xlf:tx_subscriber_domain_model_subscribermodel.email',
+          'config' => 
+          array (
+            'type' => 'input',
+            'size' => 30,
+            'eval' => 'trim',
+          ),
+        ),
+      ),
+    ),
   ),
   'categoryRegistry' => 'O:40:"TYPO3\\CMS\\Core\\Category\\CategoryRegistry":4:{s:11:"' . "\0" . '*' . "\0" . 'registry";a:3:{s:5:"pages";a:1:{s:10:"categories";a:1:{s:8:"position";s:18:"replace:categories";}}s:17:"sys_file_metadata";a:1:{s:10:"categories";a:1:{s:8:"position";s:18:"replace:categories";}}s:10:"tt_content";a:1:{s:10:"categories";a:1:{s:8:"position";s:18:"replace:categories";}}}s:13:"' . "\0" . '*' . "\0" . 'extensions";a:1:{s:4:"core";a:3:{s:5:"pages";a:1:{s:10:"categories";s:10:"categories";}s:17:"sys_file_metadata";a:1:{s:10:"categories";s:10:"categories";}s:10:"tt_content";a:1:{s:10:"categories";s:10:"categories";}}}s:20:"' . "\0" . '*' . "\0" . 'addedCategoryTabs";a:3:{s:5:"pages";s:5:"pages";s:17:"sys_file_metadata";s:17:"sys_file_metadata";s:10:"tt_content";s:10:"tt_content";}s:11:"' . "\0" . '*' . "\0" . 'template";s:60:"
 

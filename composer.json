@@ -16,5 +16,10 @@
 			"cms-package-dir": "{$vendor-dir}/typo3/cms",
 			"web-dir": "web"
 		}
+	},
+	"autoload": {
+		"psr-4": {
+			"Test\\Subscriber\\": "web/typo3conf/ext/subscriber/Classes"
+		}
 	}
 }

@@ -8,12 +8,12 @@
     },
     "autoload": {
         "psr-4": {
-            "TestTemplate\\TestTemplate\\": "Classes"
+            "Kudesnic\\TestTemplate\\": "Classes"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "TestTemplate\\TestTemplate\\Tests\\": "Tests"
+            "Kudesnic\\TestTemplate\\Tests\\": "Tests"
         }
     },
     "replace": {

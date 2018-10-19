@@ -122,6 +122,9 @@ return [
         'news' => [
             'packagePath' => 'typo3conf/ext/news/',
         ],
+        'subscriber' => [
+            'packagePath' => 'typo3conf/ext/subscriber/',
+        ],
         'test_template' => [
             'packagePath' => 'typo3conf/ext/test_template/',
         ],
